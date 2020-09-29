@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ogün Öksüz",
+      "salary": "5000",
+      "department": "Bilişim",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Burak Öksüz",
+      "salary": "5000",
+      "department": "Grafik"
+    },
+    {
+      "name": "Deneme",
+      "salary": "3999",
+      "department": "Bilişim",
+      "id": 3
+    }
+  ]
+}
